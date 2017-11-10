@@ -1,9 +1,6 @@
-## DICOM 3D Medical Image Modeling (DMIM)
+## DMIM (DICOM 3D Medical Image Modeling)
 
-Nowadays, patients are sent to MRI, PET, and CT scans more than before. Each scan produces a large amount of information of a patient, normally as a set of 2D slices, that will be inspected by a doctor or a technician. The project aims to visualize any DICOM images by creating a 3D model in addition to the classic slice-by-slice inspection.
-
-Demo:
-https://www.youtube.com/watch?v=Xz3xwpmoMHg
+The DICOM 3D Medical Image Modeling (DMIM) project enhances patient care by transforming traditional 2D MRI, PET, and CT scan slices into comprehensive 3D models, making it easier for doctors and technicians to visualize and analyze medical images. 🩻✨
 
 &nbsp;
 ## Installation
@@ -23,7 +20,7 @@ $ conda activate DMIM
 ```
 3. Clone the repository: 
 ```
-$ git clone https://github.com/nis1/Visualization-DMIM.git
+$ git clone https://github.com/Salvelop07/DMIM.git
 ```
 4.  Install MongoDB:
 ```
@@ -45,25 +42,25 @@ $ FLASK_APP=app.py FLASK_DEBUG=1 python -m flask run
 
 A successful installation will result in the following index page: 
 
-<kbd>![Home Page](https://github.com/nis1/Visualization-DMIM/blob/master/static/wiki/4.jpg)</kbd>
+<kbd>![Home Page](https://github.com/Salvelop07/DMIM/blob/master/static/wiki/4.jpg)</kbd>
 &nbsp;&nbsp;
 
 ## More images from the app
 
 #### Store and analyze various cases
-<kbd>![Store and analyze various cases](https://github.com/nis1/Visualization-DMIM/blob/master/static/wiki/5.jpg)</kbd>
+<kbd>![Store and analyze various cases](https://github.com/Salvelop07/DMIM/blob/master/static/wiki/5.jpg)</kbd>
 &nbsp;
 
 #### 3D Analysis
-<kbd>![3D Analysis](https://github.com/nis1/Visualization-DMIM/blob/master/static/wiki/8.jpg)</kbd>
+<kbd>![3D Analysis](https://github.com/Salvelop07/DMIM/blob/master/static/wiki/8.jpg)</kbd>
 &nbsp;
 
 #### Slice Analysis
-<kbd>![Slice Analysis](https://github.com/nis1/Visualization-DMIM/blob/master/static/wiki/10.jpg)</kbd>
+<kbd>![Slice Analysis](https://github.com/Salvelop07/DMIM/blob/master/static/wiki/10.jpg)</kbd>
 &nbsp;
 
 #### Draw on slices
-<kbd>![Draw on slices](https://github.com/nis1/Visualization-DMIM/blob/master/static/wiki/11.jpg)</kbd>
+<kbd>![Draw on slices](https://github.com/Salvelop07/DMIM/blob/master/static/wiki/11.jpg)</kbd>
 &nbsp;&nbsp;
 
 
